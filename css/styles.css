@@ -1,0 +1,171 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff;
+  color: var(--SLATE, #434455);
+}
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style-type: none;
+}
+button {
+  cursor: pointer;
+}
+.section-title {
+  text-align: center;
+  font-size: 36px;
+  line-height: 1.11; /* 111.111% */
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+/* ====================== Page Header styles =====================*/
+
+.logotype {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--IRIS, #4d5ae5);
+}
+.logotype-span {
+  color: var(--NAVY-BLUE, #2e2f42);
+}
+.menu-link {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+  color: var(--NAVY-BLUE, #2e2f42);
+}
+.address-title {
+  font-style: normal;
+}
+.menu-address-link {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+  color: var(--SLATE, #434455);
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+.menu-address-link:hover,
+.menu-address-link:focus {
+  color: #404bbf;
+}
+
+/* ====================== Hero section styles =====================*/
+.hero {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
+.main-title {
+  text-align: center;
+  font-size: 56px;
+  line-height: 1.07; /* 107.143% */
+  letter-spacing: 0.02em;
+  color: var(--WHITE, #fff);
+}
+.order-ser-btn {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.04em;
+  color: var(--WHITE, #fff);
+  background: var(--IRIS, #4d5ae5);
+}
+.order-ser-btn:hover,
+.order-ser-btn:focus {
+  color: #ffffff;
+  background: #404bbf;
+}
+
+/* ====================== Our benefits styles =====================*/
+.benefits-list-title {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2; /* 120% */
+  letter-spacing: 0.02em;
+  color: var(--NAVY-BLUE, #2e2f42);
+}
+.benefits-list-text {
+  font-size: 16px;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
+
+/* ====================== Our Team styles =====================*/
+.team-section {
+  background: var(--CLOUD, #f4f4fd);
+}
+/*  */
+.team-list-item {
+  background: var(--WHITE, #fff);
+}
+.team-list-name {
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2; /* 120% */
+  letter-spacing: 0.02em;
+  color: var(--NAVY-BLUE, #2e2f42);
+}
+.team-list-work {
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
+/* ====================== Our Portfolio styles =====================*/
+
+.portfolio-list-name {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2; /* 120% */
+  letter-spacing: 0.02em;
+  color: var(--NAVY-BLUE, #2e2f42);
+}
+.portfolio-list-text {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
+/* ====================== Page Footer styles =====================*/
+.page-footer {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
+.page-footer-logo {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17; /* 116.667% */
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--IRIS, #4d5ae5);
+}
+.footer-logo-span {
+  color: #f4f4fd;
+}
+.page-footer-text {
+  font-size: 16px;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+  color: var(--CLOUD, #f4f4fd);
+}
+/* ====================== Page Footer styles/ =====================*/
