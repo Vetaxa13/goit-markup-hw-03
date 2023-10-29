@@ -76,8 +76,7 @@ img {
   text-transform: uppercase;
   color: var(--IRIS, #4d5ae5);
   margin-right: 76px;
-  padding-bottom: 24px;
-  padding-top: 24px;
+  padding: 24px 0;
 }
 .logotype-span {
   color: var(--NAVY-BLUE, #2e2f42);
