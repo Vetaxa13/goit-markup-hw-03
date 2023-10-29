@@ -82,6 +82,10 @@ img {
 .logotype-span {
   color: var(--NAVY-BLUE, #2e2f42);
 }
+.menu-item {
+  padding-bottom: 24px;
+  padding-top: 24px;
+}
 .menu-link {
   font-size: 16px;
   font-style: normal;
@@ -89,8 +93,6 @@ img {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
   color: var(--NAVY-BLUE, #2e2f42);
-  padding-bottom: 24px;
-  padding-top: 24px;
 }
 .address-title {
   font-style: normal;
