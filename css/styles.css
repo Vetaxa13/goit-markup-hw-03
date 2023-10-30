@@ -90,6 +90,7 @@ img {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
   color: var(--NAVY-BLUE, #2e2f42);
+  padding: 24px 0;
 }
 .address-title {
   font-style: normal;
